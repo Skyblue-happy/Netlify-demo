@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
          <h1>2020-12-15 周二</h1>
          <p>Netlify自动化部署测试</p>
+         <p>update</p>
         <a
           className="App-link"
           href="https://reactjs.org"
