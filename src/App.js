@@ -6,9 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+         <h1>2020-12-15 周二</h1>
+         <p>Netlify自动化部署测试</p>
         <a
           className="App-link"
           href="https://reactjs.org"
